@@ -8,7 +8,7 @@ React, Python, Kotlin, Docker, Kubernetes
 
 I build and modernize web applications. Most recently spent 4+ years shipping enterprise systems at the University of Utah - CI/CD pipelines, legacy migrations, and containerized deployments.
 
-I also have formal UX training, which shapes how I think about what we build, not just how we build it.
+I leverage formal UX training to ensure complex technical architectures translate into intuitive user experiences.
 
 **Currently:** Open to full-stack and backend opportunities
 
