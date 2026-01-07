@@ -1,6 +1,6 @@
 # Wensen Zhang
 
-**Full-Stack Engineer | Production systems serving 40k+ users**
+**Full-Stack Engineer | Production systems serving 35k+ users**
 
 React, Python, Kotlin, Docker, Kubernetes
 
