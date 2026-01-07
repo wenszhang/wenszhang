@@ -1,12 +1,14 @@
 # Wensen Zhang
 
-**Full-Stack Engineer | Production systems serving 40k+ users**
+**Full-Stack Engineer | Production systems serving 35k+ users**
 
 React, Python, Kotlin, Docker, Kubernetes
 
 ---
 
 I build and modernize web applications. Most recently spent 4+ years shipping enterprise systems at the University of Utah - CI/CD pipelines, legacy migrations, and containerized deployments.
+
+I leverage formal UX training to ensure complex technical architectures translate into intuitive user experiences.
 
 **Currently:** Open to full-stack and backend opportunities
 
